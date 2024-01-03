@@ -1,0 +1,9 @@
+dev-log.md
+.vscode/settings.json
+*.out
+*.exe
+*.o
+.__afs*
+.DS_Store
+
+
