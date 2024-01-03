@@ -4,4 +4,4 @@ This project implements fully connected layers and convolution layers of a CNN i
 
 ## Build and Run
 
-CPU implementation is in `CPU/` directory and GPU implementation is in `GPU/` directory. CPU implementation can be built with `CPU/tests/Makefile`. GPU implementation can be built with `GPU-MLP/test/Makefile` directory.
+CPU implementation is in `CPU/` directory and GPU implementation is in `GPU/` directory. CPU implementation can be built with `CPU/tests/Makefile`. GPU implementation can be built with `GPU-MLP/test/Makefile`.
